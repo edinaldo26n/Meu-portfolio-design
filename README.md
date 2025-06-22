@@ -69,3 +69,32 @@
 </body>
 
 </html>
+
+body {
+    margin: 2px;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(8, 8, 8);
+    color: beige;
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 2px;
+}
+
+

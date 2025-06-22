@@ -5,7 +5,37 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="apresentação.css">
-  
+  <title>Apresentção</title>
+
+    <style> 
+      body {
+    margin: 2px;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(8, 8, 8);
+    color: beige;
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 2px;
+}
+    </style>
+
 </head>
 
 <body>
@@ -32,7 +62,7 @@
         src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
         height="35" alt="instagram logo" />
     </a>
-    <a href="https://workspace.google.com/intl/pt-BR/gmail/_source=OGB&utm_medium=act&gar=WzEyMF0 target=" _blank">
+    <a href="https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act&gar=WzEyMF0 target=" _blank">
       <img
         src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
         height="35" alt="gmail logo" />

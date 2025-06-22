@@ -57,14 +57,7 @@
       <img src="./img/github.svg"></amg>
       <p>github</p>
     </a>
-    <a>
-      <img src="./img/linkedin.svg"></amg>
-      <p>linkedin</p>
-    </a>
-    <a>
-      <img src="./img/youtube.svg"></amg>
-      <p>youtube</p>
-    </a>
+   
   </footer>
 
 </body>
